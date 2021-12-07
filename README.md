@@ -5,7 +5,7 @@ Este robô resolve o primeiro desafio do site [RPA Challenge](https://www.rpacha
 ### Para executar, basta:
 - Usar o [VS Code](https://code.visualstudio.com/download);
 - Instalar as extensões:
-    - [Robot Framework Intellisense](https://marketplace.visualstudio.com/items?itemName=TomiTurtiainen.rf-intellisense);
+    - [Robot Framework Language Server](https://marketplace.visualstudio.com/items?itemName=robocorp.robotframework-lsp);
     - [Robocorp Code](https://marketplace.visualstudio.com/items?itemName=robocorp.robocorp-code).
 
 - No VS Code, abrir o projeto, usar o atalho "ctrl + shift + p" e selecionar "Robocorp: Run Robot".
